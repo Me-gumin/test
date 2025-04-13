@@ -1,0 +1,3 @@
+[submodule "Test/submodule"]
+	path = Test/submodule
+	url = https://github.com/Me-gumin/ComfyUI-CloudDeploy.git
